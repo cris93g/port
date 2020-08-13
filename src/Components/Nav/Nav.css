@@ -1,0 +1,22 @@
+.nav-container{
+    width:100vw;
+    height:8vh;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: .5px solid lightgray;
+}
+
+.left-nav{
+    height: 100%;
+    width: 20%;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+.right-nav{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1%;
+}
